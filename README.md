@@ -9,3 +9,5 @@ Here is a short gif showing the training process of our agent on evaluation:
 And here is a gif showing its performance on 100 evaluations:
 
 ![eval_gif](./animations/eval_animation.gif)
+
+Check out the GitHub repo: https://github.com/carlota-moh/frozen-lake
